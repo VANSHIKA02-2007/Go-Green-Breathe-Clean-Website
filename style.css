@@ -1,0 +1,33 @@
+body
+{
+background-color: grey;
+}
+
+h1
+{
+   color:#113523;
+   font-style: bold;
+   font-style: italic;
+   font-size:34px;
+}
+
+h2
+{
+    color:#630836;
+    font-style:italic;
+    font-style:bold;
+    font-size:30px;
+}
+
+p
+{
+    color:#2a033a;
+    font-size:18px;
+}
+
+li
+{
+    color:#113523;
+    font-size:17px;
+
+}
